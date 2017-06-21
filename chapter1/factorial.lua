@@ -1,4 +1,5 @@
 -- defines a factorial function
+--bad cannot run
 
 function fact(n)
   if n == 0 then
